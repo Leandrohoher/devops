@@ -1,2 +1,2 @@
 # devops
-Bśsico de DevOPs com Git re Github no Lnux Mint
+Bśsico de DevOPs com Git e Github no Lnux Mint
